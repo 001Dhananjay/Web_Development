@@ -1,0 +1,12 @@
+edit Global config. file:
+  -git config --global -e
+
+
+# Git commands
+1. git init : only once 
+
+2. git add (filename.extension) like dialog.txt
+  file enter untrack into track (staged changes)
+
+3. gt commit -m "message"               (m means message)
+ commit message 
