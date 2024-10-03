@@ -10,3 +10,4 @@ edit Global config. file:
 
 3. gt commit -m "message"               (m means message)
  commit message 
+
