@@ -8,6 +8,10 @@ edit Global config. file:
 2. git add (filename.extension) like dialog.txt
   file enter untrack into track (staged changes)
 
-3. gt commit -m "message"               (m means message)
+3. git commit -m "message"               (m means message)
  commit message 
+
+ 4. git branch -M main    //-M for modify name 
+
+#Branches (git developed by linux)
 
