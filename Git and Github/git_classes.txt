@@ -34,3 +34,7 @@ edit Global config. file:
 
 #Branches (git developed by linux)
 
+#checkout
+git checkout commit id
+
+
