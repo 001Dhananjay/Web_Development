@@ -1,0 +1,36 @@
+edit Global config. file:
+  -git config --global -e
+
+
+# Git commands
+1. git init : only once 
+
+2. git add (filename.extension) like dialog.txt
+  file enter untrack into track (staged changes)
+
+3. git commit -m "message"               (m means message)
+ commit message 
+
+ 4. git branch -M main    //-M for modify name 
+
+ 5. git branch featue/test // for create new branch
+
+ 6. git branch  // for no of branch
+
+ 7. git switch featue/test // for branch switch
+
+#Branch Merging
+1. fast forward 2. 3 way Merge 3.Rebase
+ mainly use 1 and 2
+#Merge
+ 1. gto main branch
+  git switch main
+ 2.Merge
+ git merge featue/test
+
+
+# Delete a Branch
+ git branch -d featue/test
+
+#Branches (git developed by linux)
+
